@@ -20,7 +20,7 @@ let Nav = () => {
         <div className="top-bar-right">
           <ul className="menu">
             <li className="menu-text">
-              Created by <a href="#">Alex Kiryxa</a>
+              Created by <a href="#">Alex</a>
             </li>
           </ul>
         </div>
